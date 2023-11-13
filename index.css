@@ -856,10 +856,10 @@ body {
 }
 
 #moon-image {
-  animation: planetRotation 100s linear infinite;
+  animation: planetRotation 150s linear infinite;
 }
 #mars-image {
-  animation: planetRotation 50s linear infinite;
+  animation: planetRotation 10s linear infinite;
 
 }
 #europa-image {
@@ -867,7 +867,7 @@ body {
 
 }
 #titan-image {
-  animation: planetRotation 10s linear infinite;
+  animation: planetRotation 50s linear infinite;
 
 }
 
